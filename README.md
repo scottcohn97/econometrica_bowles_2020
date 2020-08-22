@@ -15,4 +15,4 @@ PDF available upon request.
 
 **Keywords:** Cultural evolution, group selection, civic values, taxation, replicator equation, endogenous preferences.
 
-Data:  https://datadryad.org/stash/dataset/doi:10.5061/dryad.87301
+**Data:**  https://datadryad.org/stash/dataset/doi:10.5061/dryad.87301
